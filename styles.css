@@ -1,0 +1,44 @@
+body {
+	border: 5px solid;
+	overflow: none;
+}
+
+img {
+	border: 5px solid green;
+}
+
+p {
+	border: 5px solid orange;
+}
+
+form {
+	border: 5px solid #03f8fc;
+}
+
+
+#top {
+	border: 5px solid red;
+}
+
+#main-title {
+	border: 5px solid blue;
+	padding: 5px;
+	width: 50%;
+
+}
+
+#middle {
+	border: 5px solid purple;
+}
+
+
+#bottom {
+	border: 5px solid grey;
+}
+
+#submit {
+	background-color: red;
+}
+
+
+
